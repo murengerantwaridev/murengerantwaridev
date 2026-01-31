@@ -1,3 +1,3 @@
-## 👋 Hey i am a  MERN stuck software developer 👨‍💻
+## 👋 Hey i am a  MERN stuck  developer 👨‍💻
 
 
