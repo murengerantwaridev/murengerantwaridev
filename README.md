@@ -1,1 +1,2 @@
-## Hero My Name is : MURENGERANTWARI HERVE
+## 👋 Hey i am a ## MERN stuck software developer
+
