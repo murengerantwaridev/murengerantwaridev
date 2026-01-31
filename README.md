@@ -1,2 +1,7 @@
-## 👋 Hey i am a ## MERN stuck software developer
+## 👋 Hey i am a  MERN stuck software developer 👨‍💻
+
+so basically i code can code build full stuck app 
+without forgeting devops the big word
+
+
 
